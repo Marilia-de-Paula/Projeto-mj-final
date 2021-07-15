@@ -1,0 +1,37 @@
+.logo{
+    height: 150px;
+    width: 100%;
+    margin: auto;
+}
+.logo1{
+    height:100px;
+    width:350px;
+    margin: auto;
+}
+.menu{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(202, 198, 198);
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;   
+    margin: auto;
+}
+.menu1{
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+  
+}
+.rodape2{
+    background-color: rgb(26, 24, 24);
+    color: white;
+    justify-content: space-between;
+    text-align: right;
+    position: relative; 
+    top: 100vh;
+}
