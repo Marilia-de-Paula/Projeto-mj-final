@@ -11,7 +11,7 @@
 .menu{
     height: 70px;
     width: 100%;
-    background-color: rgb(202, 198, 198);
+    background-color: rgb(192, 217, 238);
     display: flex;
     justify-content: space-between;
     text-decoration: none;
@@ -27,20 +27,21 @@
     display: flex;
   
 }
+
 .slide{
     height: 50%;
-    width: 70%;
+    width: 80%;
     margin: auto;
 }
-
-
 
 .card{
     margin: auto;
+    height: 50vh;
+    width: 100%;
 }
 .rodape1{
-    background-color: rgb(202, 198, 198);
-
+    background-color: rgb(192, 217, 238);
+    padding-top: 10px;
 }
 .rodape2{
     background-color: rgb(26, 24, 24);
